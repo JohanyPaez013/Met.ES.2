@@ -1,2 +1,77 @@
 # Met.ES.2
 Repositorio de métodos estadísticos del semestre Agosto-Diciembre.
+Hoy es la primera clase de metodos estadisticos y creamos una cuenta en la pagina GitHub.
+
+# Actividad 2 Configurar Git y GitHub, crear proyecto.
+
+## Objetivo
+
++ :dart: Configurar el nombre de usuario y correo electronico en la cuenta de Gitt.
+
++ :dart: Crear un proyecto clonando el repositorio de GitHub.
+
++ :dart: Realizar la primera sincronizacion del proyecto y la nube (GitHub).
+
+# Clase 2
+
++ :dart: Es la segunda clase de metodos estadisticos, y vimos sobre que es la hipotesis nula, la cual se basa en que no hay diferencias y la alternativa si hay una diferencia
+
+# Actividad 3 Hipotesis nula y alternativa.
+
+## Objetivo
+
++ :dart: Desarrollar habilidades de la creacion de hipotesis.
+
++ :dart: Formular declaraciones claras sometidas a pruebas estadisticas.
+
+# Clase 3
+
++ :dart: Es la tercera clase y vimos como importar datos csv a R. Tambien vimos descriptivas, medidas de tendencia central como la media, mediana y rango como desviacion estandar y varianza. Y por ultimo graficas (Boxplot).
+
+# Clase 4
+
+Clase 21/08/2023
+
+Objetivo
+
++ :dart: Vimos como importar datos csv a R.
+
++ :dart: Tambien vimos descriptivas, medidas de tendencia central como la media, mediana y rango como desviacion estandar y varianza.
+
++ :dart: Y por ultimo graficas (Boxplot).
+
+# Clase 5 Hipotesis, aplicar la funcion t.test, replicabilidad.
+
+Clase 28/08/2023
+
+Objetivo
+
++ :dart: Usar formulas para responder una hipotesis.
+
++ :dart: Aplicar la funcion t.test.
+
++ :dart: Grafica boxplot.
+
+# Clase 6
+
+29/08/2023
+
+Objetivo
+
++ :dart: Analizamos una tabla de datos comparativa entre plantas controladas y fertilizadas. mediante eso sacamos la media, varianza y un boxplot.
+
+# Clase 7
+
+04/09/2023
+
+Objetivo
+
++ :dart: Hicimos una hipotesis sencilla, sobre algunos ejemplo creados por nosotros mismos, hablando sobre la hipotesis nula y alternativa.
+
+# Clase 8
+
+05/09/2023
+
+Objetivo
+
++ :dart: Hicimos una actividad sobre ejercicio de comparacion de diametros de arboles en dos tratamientos For.
