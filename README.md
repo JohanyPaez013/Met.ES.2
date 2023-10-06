@@ -75,3 +75,27 @@ Objetivo
 Objetivo
 
 + :dart: Hicimos una actividad sobre ejercicio de comparacion de diametros de arboles en dos tratamientos For.
+
+# Clase 9
+
+25/09/2023
+
+Objetivo
+
++ :dart: Aprendimos a hacer una correlacion.
+
+# Clase 10
+
+26/09/2023
+
+Objetivo
+
++ :dart: El doctor nos entrego datos y con ellos realizamos una actividad sobre la correlacion.
+
+# Clase 11
+
+02/10/2023
+
+Objetivo
+
++ :dart: El doctor nos entrego datos sobre un geyser y con ellos realizamos una actividad sobre la correlacion.
