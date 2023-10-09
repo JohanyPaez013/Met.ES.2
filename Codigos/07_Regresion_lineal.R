@@ -37,3 +37,5 @@ y.pr
 # prediccion de yprima
 # range (erupciones$waiting)
 
+
+
