@@ -99,3 +99,9 @@ Objetivo
 Objetivo
 
 + :dart: El doctor nos entrego datos sobre un geyser y con ellos realizamos una actividad sobre la correlacion.
+
+# Clase 12
+09/10/2023
+
+Objetivo
++ :dart: El doctor nos explico sobre como obtener los valores de alfa y beta. Con ayuda de el ejercicio del geyser.
