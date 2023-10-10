@@ -105,3 +105,9 @@ Objetivo
 
 Objetivo
 + :dart: El doctor nos explico sobre como obtener los valores de alfa y beta. Con ayuda de el ejercicio del geyser.
+
+# Clase 13
+10/10/2023
+
+Objetivo
++ :dart: Aprendimos hacer un analisis de varianza
