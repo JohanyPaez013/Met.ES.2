@@ -110,4 +110,16 @@ Objetivo
 10/10/2023
 
 Objetivo
-+ :dart: Aprendimos hacer un analisis de varianza
++ :dart: Aprendimos hacer un analisis de varianza.
+
+# Clase 27
+28/11/2023
+
+Objetivo
++ :dart: Se realizo el pia, desarrollandolo con todas las actividades que vimos en el semestre y se subio.
+
+# Clase 28
+29/11/2023
+
+Objetivo
++ :dart: Se realizo el examen global.
