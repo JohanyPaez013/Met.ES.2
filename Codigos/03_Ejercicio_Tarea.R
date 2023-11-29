@@ -4,7 +4,7 @@
 
 # Importar ----------------------------------------------------------------
 
-setwd("C:/Repositorio_GIT_DiegoFlores/Met.ES/Codigos")
+setwd("C:/Repositorio_JRPZ_2/Met.ES/Codigos")
 Tarea<-read.csv("Tarea.csv",header = T)
 
 
