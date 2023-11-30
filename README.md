@@ -117,9 +117,11 @@ Objetivo
 
 Objetivo
 + :dart: Se realizo el pia, desarrollandolo con todas las actividades que vimos en el semestre y se subio.
-
+  
 # Clase 28
 29/11/2023
 
 Objetivo
 + :dart: Se realizo el examen global.
+
++:dart: ![Sin título](https://github.com/JohanyPaez013/Met.ES.2/assets/141652840/97c144ac-1019-4bac-8927-079efa19704d)
